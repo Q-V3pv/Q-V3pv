@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola. Me llamo Pablo.
 
-<!--
-**Q-V3pv/Q-V3pv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Q-V3pv))
 
-Here are some ideas to get you started:
+🎓 **Estudiante de Ciencias Actuariales** Interés principal en: seguros, programación en R y Python, y Ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Actualmente cursando *Herramientas de Ciencia de Datos II*. Proyectos en desarrollo.
+
+
+🛠 
+- **Lenguajes:** Python, R, Java.
+- **Herramientas:** Git, GitHub, Spyder, Jupyter, RStudio, SQL.
+
+
+🌍 **Idiomas:**
+- Español (C2)
+- Inglés  (B2+)
+
+
+
+> "Nil volentibus arduum."  
+
