@@ -2,9 +2,9 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Q-V3pv)
 
-🎓 **Estudiante de Ciencias Actuariales** Interés principal en: seguros, programación en R y Python, y Ciberseguridad.
+🎓 **Estudiante de Ciencias Actuariales** Seguros - Programación - Ciberseguridad.
 
-📚 Actualmente cursando *Herramientas de Ciencia de Datos II*. Proyectos en desarrollo.
+📚 Cursando *Herramientas de Ciencia de Datos II*. Proyectos en desarrollo.
 
 
 🛠 
