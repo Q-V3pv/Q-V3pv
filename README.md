@@ -2,14 +2,14 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Q-V3pv)
 
-🎓 **Estudiante de Ciencias Actuariales** Seguros - Matemática - Ciberseguridad.
+🎓 **Estudiante de Ciencias Actuariales** Orientación en Ciberseguridad.
 
-📚 Cursando *Herramientas de Ciencia de Datos II*. Proyectos en desarrollo.
+📚 Cursando *Herramientas de Ciencia de Datos II*. 
 
 
 🛠 
-- **Lenguajes:** Python, R, Java.
-- **Herramientas:** Git, GitHub, Spyder, Jupyter, RStudio, SQL.
+- **Lenguajes:** Python, R, SQL.
+
 
 
 🌍 **Idiomas:**
