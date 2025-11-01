@@ -3,7 +3,7 @@
 **Actuarial Science Student**  
 **Data Analysis & Cybersecurity**
 
-> Analytical · Precise · Structured  
+
 
 ---
 
