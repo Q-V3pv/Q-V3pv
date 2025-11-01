@@ -1,30 +1,47 @@
-# 👋🏻 
+# ⚙️ PABLO A. CHAVES M.
 
+**Actuarial Science Student**  
+**Data Analysis & Cybersecurity**
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Q-V3pv)
-[![GitHub followers](https://img.shields.io/github/followers/Q-V3pv?style=social)](https://github.com/Q-V3pv)
-
-🎓 **Actuarial Science Student** | **Focused on Data Analysis and Cybersecurity**  
-
+> Analytical · Precise · Structured  
 
 ---
 
-### 🛠 Tech Stack
-- **Languages:** Python, R, SQL  
-- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
-- **Systems:** Linux (CLI), Windows  
-- **Concepts:** Data Analysis, Risk Modeling, Cyber Security, IT.
+### 🧠 Profile
+Actuarial Science student focused on **data, risk, and information security**.  
+Applies quantitative reasoning and structured methods to digital systems.  
+Builds models and tools that merge logic, automation, and cybersecurity principles.
 
 ---
 
-### 🌍 Languages
+### 🧰 Stack
+**Languages:** Python · R · SQL  
+**Libraries:** Pandas · NumPy · Scikit-learn · Matplotlib  
+**Systems:** Linux (CLI) · Windows  
+**Concepts:** Data Analysis · Risk Modeling · Cyber Hygiene · IT Fundamentals  
+
+---
+
+### 🌐 Languages
 - **Spanish:** Native (C2)  
-- **English:** Advanced (B2+)
+- **English:** Advanced (B2+)  
 
 ---
 
-### ✨ Motto  
+### 📡 Learning Path
+
+- Data modeling & automation with Python notebooks  
+
+---
+
+### 🜂 Motto
 > *Nil volentibus arduum.*
+
+---
+
+### 🔗 Links
+ [GitHub](https://github.com/Q-V3pv)
+
 
 
 
