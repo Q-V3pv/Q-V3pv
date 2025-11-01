@@ -2,7 +2,6 @@
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Q-V3pv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavchm)
 [![GitHub followers](https://img.shields.io/github/followers/Q-V3pv?style=social)](https://github.com/Q-V3pv)
 
 🎓 **Actuarial Science Student** | **Focused on Data Analysis and Cybersecurity**  
